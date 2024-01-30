@@ -7,5 +7,5 @@ input_and_output file read and write concepts
 nested Interactive loop
 list comprehensions
 
-Explanation Video:
+Explanation Video: https://github.com/sxu03070/ICP2/blob/main/ICP2.mp4
 
